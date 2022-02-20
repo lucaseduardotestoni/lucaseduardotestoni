@@ -3,14 +3,17 @@
 👨‍💻 | Estudante Programação 
 <br>
 🛠  |  Formação em Técnico de Ti 
-##
-
+ <div align="center">
+  <h2>My Stats GitHub</h2>
+  </div>
 <div align="center">
+ 
   <a href="https://github.com/lucaseduardotestoni">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=lucaseduardotestoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardotestoni&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=lucaseduardotestoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardotestoni&layout=compact&langs_count=7&theme=dark"/>
     </div>
-
+  <h1></h1>
+  
   <div align="center">
   
   <a href="https://www.instagram.com/lucas_eduardo_testoni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
