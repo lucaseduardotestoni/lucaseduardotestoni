@@ -1,6 +1,6 @@
 ### Hi! Welcome to my profile 👋 
 
-I'm a 19 years old brazilian, student of programming and I'm graduated in some areas of informatics. come to know the languages in which I have already worked.
+I'm a 19 years old brazilian, student of programming and I'm graduated in some areas of informatics. come to know the projects in which I have already worked.
 
  <div align="center">
   <h2>My Stats GitHub</h2>
