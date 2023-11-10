@@ -20,7 +20,6 @@ I'm a 19 year old Brazilian, programming student, I have professional experience
 
 ## Contact:
   <div align="center">
-  <a href="https://www.instagram.com/lucasetestoni/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-eduardo-t-807a271a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://discordapp.com/users/315080520486879233/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
