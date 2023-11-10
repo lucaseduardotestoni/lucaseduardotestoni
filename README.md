@@ -15,6 +15,7 @@ I'm a 19 year old Brazilian, programming student, I have professional experience
  <img width="center" alt="mysql" height="60"  width="90" 
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
   <img width="center" alt="spring" height="60" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"/>
+  <img width="center" alt="spring" height="50" width="90" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"/>
 </div>
 
 ## Contact:
