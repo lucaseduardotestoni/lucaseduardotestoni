@@ -1,6 +1,6 @@
-### Hi! Welcome to my profile 👋 
+### Welcome to my profile!  
 
-I'm a 19 year old Brazilian, programming student, I have professional experience in support and infrastructure. Were you curious? so come and see my projects.
+👋 Hello, my name is Lucas, and I am a university student majoring in Information Systems. I have been working on various personal and academic projects, where I have had the opportunity to practice and apply several programming languages. I invite you to check out these projects and follow my journey of learning and innovation.
 
  ## Languages
 
