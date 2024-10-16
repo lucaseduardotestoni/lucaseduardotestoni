@@ -25,7 +25,7 @@
 <br>
 
 <div align="center"">
- <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&pause=1000&color=F78B15&background=FFFFFF00&center=true&repeat=false&random=true&width=435&lines=Database+and+technolgies" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&pause=1000&color=F78B15&background=FFFFFF00&center=true&repeat=false&random=true&width=435&lines=Database+and+technologies" />
 </div>
 
 <div align="center" style="text-align: center;">
