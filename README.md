@@ -11,7 +11,7 @@
 - **Interests:** Software development, continuous learning, and technological innovation
 
 <div align="center" style="text-align: center;">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFF00&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Linguagens+utilizadas;+Languagens+and+tolls" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFF00&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Linguagens+utilizadas;+Languagens+and+tools" />
 </div>
 
 <div align="center" style="display: flex; align-items: flex-start;">
