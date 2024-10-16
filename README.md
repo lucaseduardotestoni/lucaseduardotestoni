@@ -10,23 +10,28 @@
 - **Experience:** Some hands-on experience with various programming languages and technologies
 - **Interests:** Software development, continuous learning, and technological innovation
 
- ## Languages and Tools:
-<div align="center" style="display: inline_block; text-align: center;">
-    <img alt="Java" height="42px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"/>
-    <img alt="JavaScript" height="42px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-    <img alt="Node.js" height="42px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
-  <img alt="HTML5" height="42px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+<div align="center" style="text-align: center;">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFF00&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Linguagens+utilizadas;+Languagens+and+tolls" />
 </div>
 
+<div align="center" style="display: flex; align-items: flex-start;">
+ <img  src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="61" height="80" />
+ <img  src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="61" height="61" />
+ <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="61" height="61" />
+ <img style= "margin-right: 14;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="icon" width="50" height="54" />
+ <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="icon" width="50" height="54" /> 
+</div>
 
-## Database and technologies:
-   
+<br>
+
+<div align="center"">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=500&pause=1000&color=F78B15&background=FFFFFF00&center=true&repeat=false&random=true&width=435&lines=Database+and+technolgies" />
+</div>
+
 <div align="center" style="text-align: center;">
-  <img alt="MySQL" height="60" width="60" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-  <img alt="Spring" height="60" width="60" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"/>
-  <img alt="jQuery" height="50" width="60" 
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="61" height="61" />
+  <img alt="Spring" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"/>
+  <img alt="jQuery" height="60" width="60" 
     src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"/>
 </div>
 
