@@ -31,12 +31,11 @@
 <div align="center" style="text-align: center;">
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="61" height="61" />
   <img alt="Spring" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"/>
-  <img alt="jQuery" height="60" width="60" 
-    src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"/>
+  <img alt="jQuery" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"/>
 </div>
 
 
 ## Contact:
   <div align="center">
-  <a href="https://www.linkedin.com/in/lucas-eduardo-t-807a271a1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucas-eduardo-t-807a271a1/" target="_blank"><img height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"></a> 
 
