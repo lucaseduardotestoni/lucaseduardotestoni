@@ -38,4 +38,4 @@
 ## Contact:
   <div align="center">
   <a href="https://www.linkedin.com/in/lucas-eduardo-t-807a271a1/" target="_blank"><img height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"></a> 
-
+</div>
