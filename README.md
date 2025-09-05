@@ -18,8 +18,10 @@
  <img  src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="61" height="80" />
  <img  src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="61" height="61" />
  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="61" height="61" />
+ <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
  <img style= "margin-right: 14;" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="icon" width="50" height="54" />
  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="icon" width="50" height="54" /> 
+ <img alt="AzureDeveops" height="55" width="60" src="https://github.com/devicons/devicon/blob/master/icons/azuredevops/azuredevops-original.svg"/>
 </div>
 
 <br>
@@ -29,11 +31,14 @@
 </div>
 
 <div align="center" style="text-align: center;">
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="61" height="61" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="icon" width="61" height="61" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="icon" width="55" height="61" />
+ 
   <img alt="Spring" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"/>
   <img alt="jQuery" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"/>
 </div>
-
+<br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaseduardotestoni&show_icons=true&locale=en&layout=compact" alt="lucaseduardotestoni" /></p>
 
 ## Contact:
   <div align="center">
