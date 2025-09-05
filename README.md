@@ -38,7 +38,7 @@
   <img alt="jQuery" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg"/>
 </div>
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucaseduardotestoni&show_icons=true&locale=en&layout=compact" alt="lucaseduardotestoni" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaseduardotestoni&show_icons=true&locale=en&layout=compact&theme=dark&border_color=1f6feb" alt="lucaseduardotestoni" /></p>
 
 ## Contact:
   <div align="center">
